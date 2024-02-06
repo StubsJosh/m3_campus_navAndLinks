@@ -41,7 +41,7 @@ nav a{
     color: var(--lt-gray);
 }
 
-nav a:hover{
+nav a:hover .current{
     background-color: var(--red);
     color: var(--lt-gray);
 }
